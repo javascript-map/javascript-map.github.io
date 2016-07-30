@@ -1,1 +1,4 @@
-# javascript-map.github.io
+mindmap
+=======
+
+jQuery mindmap plugin
